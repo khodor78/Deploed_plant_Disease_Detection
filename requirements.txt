@@ -1,8 +1,7 @@
 numpy==1.22.3
 streamlit==0.85.1
-opencv-python-headless==4.5.5.62
-keras==2.8  
+opencv-python==4.5.5.62
+keras
 matplotlib==3.5.1
 pickle-mixin==1.0.2
-# opencv-python-headless==4.5.4.60
 tensorflow==2.7.0
