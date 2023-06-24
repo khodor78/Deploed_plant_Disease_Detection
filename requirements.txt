@@ -1,4 +1,6 @@
-streamlit==0.71.0
-Keras==2.4.3
-numpy==1.18.5
-opencv_python==4.4.0.46
+numpy==1.22.3
+streamlit==0.85.1
+opencv-python==4.5.5.62
+keras==2.6.0
+matplotlib==3.5.1
+pickle-mixin==1.0.2
